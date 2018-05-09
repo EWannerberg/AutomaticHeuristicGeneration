@@ -7,6 +7,8 @@ Feel free to browse, download, test, and modify at your heart's desire.
 The code is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License), which allows precisely what is suggested above, 
 with the only requirement that you take the license file with you if you ship it somewhere else.
 
+The thesis itself can be found on the [GitHub wiki](https://github.com/EWannerberg/AutomaticHeuristicGeneration/wiki) (direct link to thesis [here](../../wiki/EWanThesisAug2017.pdf)).
+
 The code is split up into four parts:
 
 ### Model predictive control
